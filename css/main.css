@@ -94,7 +94,6 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
 html {
     /*background: #000;*/
 }
@@ -132,7 +131,7 @@ body {
     /*background: #ccc;*/
     font-size: 20px;
     font-weight: bold;
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'pixelzim3x5';
     /*color: white;*/
     /*border: 3px solid white;*/
     /*padding: 1em 1.6em;*/
@@ -147,7 +146,7 @@ body {
     letter-spacing: 0.05em;
     opacity: 0.8;
     font-size: 20px;
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'pixelzim3x5';
     color: #fff;
     text-shadow: 2px 2px 8px #000;
 }
