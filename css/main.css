@@ -129,7 +129,7 @@ body {
 /* This is the main heading that appears on the blue section */
 .splash-head {
     /*background: #ccc;*/
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     font-family: 'pixelzim3x5';
     /*color: white;*/
@@ -145,7 +145,7 @@ body {
     color: white;
     letter-spacing: 0.05em;
     opacity: 0.8;
-    font-size: 20px;
+    font-size: 30px;
     font-family: 'pixelzim3x5';
     color: #fff;
     text-shadow: 2px 2px 8px #000;
